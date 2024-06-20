@@ -5,7 +5,7 @@ This is a simplified agentic workflow process based on the Mixture of Agents (Mo
 This demo is a 3-layer MoA with 4 open-source models of Qwen2, Qwen 1.5, Mixtral, and dbrx. Qwen2 acts as the aggregator in the final layer.
 
 ## Run MoA
-1. Export your Together AI API key as an environment variable using `bash_profile` or `Zshrc` and update your shell with the new variable. If you want to set up the key inside your Python script, follow the file ` API key set-up` here.
+1. Export your Together AI API key as an environment variable using `bash_profile` or `Zshrc` and update your shell with the new variable. If you want to set up the key inside your Python script, follow the file `API key set-up` here.
 2. `git clone` the MoA GitHub project `https://github.com/togethercomputer/MoA.git` into your project directory
 3. `pip install -r requirements.txt` from the MoA directory
 4. Run the Python file `bot.py`
