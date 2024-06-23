@@ -1,0 +1,8 @@
+GitHub repository of MoA system:
+https://github.com/togethercomputer/MoA
+
+Together AI:
+https://www.together.ai/
+
+GSM8K benchmark dataset:
+https://paperswithcode.com/dataset/gsm8k
