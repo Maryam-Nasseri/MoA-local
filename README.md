@@ -12,6 +12,4 @@ Check out the links.txt for the link to the GSM8K benchmark and datasets.
 4. Run the Python file `bot.py`
 
 ## Tutorial: Run MoA Locally
-
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/4_iKxitIK90)
-
+[![Watch the video](https://img.youtube.com/vi/4_iKxitIK90/maxresdefault.jpg)](https://youtu.be/4_iKxitIK90)
