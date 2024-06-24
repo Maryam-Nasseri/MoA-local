@@ -13,4 +13,5 @@ Check out the links.txt for the link to the GSM8K benchmark and datasets.
 
 ## Tutorial: Run MoA Locally
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4_iKxitIK90/0.jpg)](https://www.youtube.com/watch?v=4_iKxitIK90)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/4_iKxitIK90)
+
