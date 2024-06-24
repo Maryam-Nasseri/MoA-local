@@ -10,3 +10,7 @@ Check out the links.txt for the link to the GSM8K benchmark and datasets.
 2. `git clone` the MoA GitHub project `https://github.com/togethercomputer/MoA.git` into your project directory.
 3. `pip install -r requirements.txt` from the MoA directory.
 4. Run the Python file `bot.py`
+
+## Tutorial: Run MoA Locally
+Full explanation of the MIxture of Agents system to build AI agents:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4_iKxitIK90/0.jpg)](https://www.youtube.com/watch?v=4_iKxitIK90)
